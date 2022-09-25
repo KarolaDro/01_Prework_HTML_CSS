@@ -1,0 +1,6 @@
+.gradient {
+    width: 500px;
+    height: 200px;
+    background-image: linear-gradient(45deg, #ffb700, #5eff1e, #0032fa, #82008b);
+
+}
